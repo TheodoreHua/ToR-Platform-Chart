@@ -1,7 +1,7 @@
 # Platform Reference for [r/TranscribersOfReddit](https://www.reddit.com/r/TranscribersOfReddit/wiki/index)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/TheodoreHua/ToR-Platform-Chart/graphs/commit-activity)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/theodorehuadev@gmail.com)  
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/theodorehuadev@gmail.com)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheodoreHua/ToR-Platform-Chart)
 [![GitHub license](https://img.shields.io/github/license/TheodoreHua/ToR-Platform-Chart)](https://github.com/TheodoreHua/ToR-Platform-Chart/blob/master/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TheodoreHua/ToR-Platform-Chart)
@@ -31,3 +31,4 @@ The table is in no particular order (in the future I may sort them into subcateg
 | Post and Comments ![Youtube Post](res/youtube/post_comments.jpeg)<br/>Comments ![Youtube](res/youtube/comment.png)|Youtube|Most posts are uploaded to reddit with comments, which have either Black or White Background. Every comment has a profile picture and a username. There are like/dislike buttons. The number of points the comment has is displayed between this buttons.  |  No official template yet. [Use generic social media](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/other)
 | Post + Answer ![Quora](res/quora/post.png) | Quora | Blue framed pencil icon with the text `Answer`, followed by a follow icon (and sometimes a request icon) underneath a bolded title. Answers usually are formatted with the name in bold, followed by `experiences` after the name separated with a comma. Underneath that is either `Answered` followed by a date or `Updated` followed by a date. | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/quora)
 | Post + Comment ![TikTok](res/tiktok/post_comment.jpg) | TikTok | Extremely similar to Instagram except there's a number under the heart icon. If something has been `liked by the creator` then it says that underneath it. It has the time a comment was posted after the comment text. | No official (or unofficial) template yet.
+| Review + Reply ![Review + Reply](res/google/review.jpg) | Google Reviews | Username, then number of reviews, then stars. | [Unofficial Template](res/google/review.md)
