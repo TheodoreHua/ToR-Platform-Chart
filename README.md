@@ -1,7 +1,7 @@
 # Platform Reference for [r/TranscribersOfReddit](https://www.reddit.com/r/TranscribersOfReddit/wiki/index)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/TheodoreHua/ToR-Platform-Chart/graphs/commit-activity)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/theodorehuadev@gmail.com)  
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/theodorehuadev@gmail.com)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheodoreHua/ToR-Platform-Chart)
 [![GitHub license](https://img.shields.io/github/license/TheodoreHua/ToR-Platform-Chart)](https://github.com/TheodoreHua/ToR-Platform-Chart/blob/master/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TheodoreHua/ToR-Platform-Chart)
@@ -31,5 +31,9 @@ The table is in no particular order (in the future I may sort them into subcateg
 | Post and Comments ![Youtube Post](res/youtube/post_comments.jpeg)<br/>Comments ![Youtube](res/youtube/comment.png)|Youtube|Most posts are uploaded to reddit with comments, which have either Black or White Background. Every comment has a profile picture and a username. There are like/dislike buttons. The number of points the comment has is displayed between this buttons.  |  No official template yet. [Use generic social media](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/other)
 | Post + Answer ![Quora](res/quora/post.png) | Quora | Blue framed pencil icon with the text `Answer`, followed by a follow icon (and sometimes a request icon) underneath a bolded title. Answers usually are formatted with the name in bold, followed by `experiences` after the name separated with a comma. Underneath that is either `Answered` followed by a date or `Updated` followed by a date. | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/quora)
 | Post + Comment ![TikTok](res/tiktok/post_comment.jpg) | TikTok | Extremely similar to Instagram except there's a number under the heart icon. If something has been `liked by the creator` then it says that underneath it. It has the time a comment was posted after the comment text. | No official (or unofficial) template yet.
+<<<<<<< HEAD
 | Post ![Mastodon Post](res/mastodon/post.png)<br/>Comment ![Mastodon Comment](res/mastodon/post_comment.png) | Mastodon | Like twitter except the mention is formatted in `@username@domain`. The domain varies as there are different Mastodon instances. The date, privacy (globe, lock, etc), boosts (equivalent to retweet), and stars are located under the post. Generally the buttons are in the order reply, boost, star, bookmark, more. | [Unofficial Template](res/mastodon/templates)
 | Commit ![GitHub Commit](res/github/commit.png)<br/>Issue ![GitHub Issue](res/github/issue.png) | GitHub | For commits, bolded commit message and underneath that, the profile picture and the name in bold to the right of the profile picture followed by `committed` and the date.<br/><br/>For issues, a large title and underneath that the status (Open & Closed), and the text `[user] opened this issue [time] ago` to the right of it.| [Unofficial Template](res/github/templates)
+=======
+| Review + Reply ![Review + Reply](res/google/review.jpg) | Google Reviews | Username, then number of reviews, then stars. | [Unofficial Template](res/google/review.md)
+>>>>>>> 9fc5a32e478bb3e874fed2f920853e92deda4a5e
