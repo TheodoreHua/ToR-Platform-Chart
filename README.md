@@ -14,7 +14,7 @@ Keep in mind, when in doubt, ask the mods (or other transcribers). Also keep in 
 
 ## Pull Requests
 
-Pull requests are always appreciated and help a lot (both me and future users). In the case that you don't know how, you may ask me in the ToR Discord (either to have me just add it or to learn how to create a PR). If you would like to be added as a contributor, message me on discord.
+Pull requests are always appreciated and help a lot (both me and future users). In the case that you don't know how, you may ask me in the ToR Discord (either to have me just add it or to learn how to create a PR). If you don't know where to start, go to the issues page and pick one of them that hasn't been taken by someone else. Then comment that you're doing it so that others don't work on it as the same time as you (if you're a contributor, you can self-assign the issue). If you would like to be added as a contributor, message me on discord.
 
 ## Table
 
