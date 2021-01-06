@@ -11,7 +11,7 @@ Pull requests are always appreciated and help a lot (both me and future users). 
 
 ## Table
 
-The table is in no particular order (in the future I may sort them into subcategories).
+The table is in no particular order (in the future I may sort them into subcategories). So far there are no mobile screenshots/tables but I plan on adding those in the future.
 
 | Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
@@ -20,9 +20,9 @@ The table is in no particular order (in the future I may sort them into subcateg
 | Post ![Twitter Post](res/twitter/post.jpg)<br/>Reply/Comment ![Twitter Reply](res/twitter/comment_reply.jpg)| Twitter | Bolded name to the right of a profile picture and a mention (@username) underneath that. | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/twitter)
 | Messages ![Discord](res/discord/messages.png) | Discord | Username followed by date stamp, generally with a grey-ish background. <br /><br /> <details><summary>Click to reveal text (Controversy Warning)</summary><br />Unless they're one of those people who uses light theme, in which case, same thing except your eyes are now burned out</details> | [Unofficial Template](res/discord/template.md)
 | Post ![4Chan](res/4chan/post.jpg)<br/>Greentext ![Greentext](res/4chan/greentext.jpg) | 4Chan | Brownish background, post header with name in greentext on the left side and the date & number in the right side in reddish font. | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/greentext)
+| Post ![Instagram Post](res/instagram/post.png)<br/>Stories ![Instagram Stories](res/instagram/stories.png) | Instagram | Image/Post on the left, username in the topright with `Follow` beside it. Triangle paper airplane design pointing towards the topleft near the message/comment bar. | [Text Message Template for DMs](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/textmessages), No Post/Story Template Yet.
 
 ## To Add
-- Instagram (& DMs)
 - TikTok
 - LinkedIn
 - Pinterest
@@ -33,3 +33,4 @@ The table is in no particular order (in the future I may sort them into subcateg
 - Youtube
 - Stack Exchange / Stack Overflow
 - Snapchat
+- Messenger
