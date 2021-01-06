@@ -3,7 +3,7 @@ An *unofficial* repository of references (and sometimes unofficial templates) fo
 
 The example screenshots are either created by me, taken from Reddit, or from various other image websites.
 
-Keep in mind, when in doubt, ask the mods (or other transcribers). Also keep in mind that when copying an unofficial template in the repo, copy the raw text (click the `Raw` button in the file) or the formatting won't appear in reddit.
+Keep in mind, when in doubt, ask the mods (or other transcribers). Also keep in mind that when copying an unofficial template in the repo, copy the raw text (click the `Raw` button in the file) or the formatting won't appear properly in reddit.
 
 ## Pull Requests
 
