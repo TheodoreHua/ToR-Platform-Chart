@@ -18,5 +18,5 @@ Description of the job
 
 ---
 
-/footer
 
+/footer
