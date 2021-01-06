@@ -28,3 +28,4 @@ Pull requests are always appreciated and help a lot (both me and future users). 
 - Tumblr
 - P\*\*nHub
 - Youtube
+- Stack Exchange / Stack Overflow
