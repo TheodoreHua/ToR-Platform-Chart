@@ -32,3 +32,4 @@ The table is in no particular order (in the future I may sort them into subcateg
 - P\*\*nHub
 - Youtube
 - Stack Exchange / Stack Overflow
+- Snapchat
