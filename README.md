@@ -5,9 +5,9 @@ The example screenshots are either created by me, taken from Reddit, or from var
 
 Keep in mind, when in doubt, ask the mods (or other transcribers). Also keep in mind that when copying an unofficial template in the repo, copy the raw text (click the `Raw` button in the file) or the formatting won't appear in reddit.
 
-## Pull requests are very much appreciated
+## Pull Requests
 
-In the case that you don't know how, you may ask me in the ToR Discord (either to have me just add it or to learn how to create a PR).
+Pull requests are always appreciated and help a lot (both me and future users). In the case that you don't know how, you may ask me in the ToR Discord (either to have me just add it or to learn how to create a PR).
 
 ## Table
 
