@@ -30,9 +30,6 @@ The table is in no particular order (in the future I may sort them into subcateg
 | Post ![Instagram Post](res/instagram/post.png)<br/>Stories ![Instagram Stories](res/instagram/stories.png) | Instagram | Image/Post on the left, username in the topright with `Follow` beside it. Triangle paper airplane design pointing towards the topleft near the message/comment bar. | [Text Message Template for DMs](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/textmessages), No Post/Story Template Yet.
 |Post and Comments ![Youtube Post](res/youtube/post_comments.jpeg)<br/>Comments ![Youtube](res/youtube/comment.png)|Youtube|Most posts are uploaded to reddit with comments, which have either Black or White Background. Every comment has a profile picture and a username. There are like/dislike buttons. The number of points the comment has is displayed between this buttons.  |  No official template yet. [Use generic social media](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/other)
 
-## In Progress
--Youtube
-
 ## To Add
 - TikTok
 - LinkedIn
