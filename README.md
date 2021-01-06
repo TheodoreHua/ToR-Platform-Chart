@@ -11,6 +11,8 @@ Pull requests are always appreciated and help a lot (both me and future users). 
 
 ## Table
 
+The table is in no particular order (in the future I may sort them into subcategories).
+
 | Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
 | New Reddit ![New Reddit](res/reddit/newpost.png)<br />Old Reddit ![Old Reddit](res/reddit/oldpost.png)<br />New Reddit Comments ![New Reddit](res/reddit/newcomment.png)<br />Old Reddit Comments ![Old Reddit](res/reddit/oldcomment.png) | Reddit | Upvote & Downvote Arrows <br /><br /> <details><summary>Click to reveal text (for dramatic effect)</summary><br />Also you should know this, it's called TranscribersOf**Reddit**</details> | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/reddit)
