@@ -1,4 +1,11 @@
 # Platform Reference for [r/TranscribersOfReddit](https://www.reddit.com/r/TranscribersOfReddit/wiki/index)
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/TheodoreHua/ToR-Platform-Chart/graphs/commit-activity)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/theodorehuadev@gmail.com)  
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TheodoreHua/ToR-Platform-Chart)
+[![GitHub license](https://img.shields.io/github/license/TheodoreHua/ToR-Platform-Chart)](https://github.com/TheodoreHua/ToR-Platform-Chart/blob/master/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/TheodoreHua/ToR-Platform-Chart)
+
 An *unofficial* repository of references (and sometimes unofficial templates) for various platforms that r/TranscribersOfReddit users may come across. (Partly inspired by u/Halailah and [ToR-Repost-Collection](https://github.com/codingJWilliams/ToR-Repost-Collection)).
 
 The example screenshots are either created by me, taken from Reddit, or from various other image websites.
