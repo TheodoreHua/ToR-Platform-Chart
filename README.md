@@ -13,7 +13,7 @@ In the case that you don't know how, you may ask me in the ToR Discord (either t
 
 ---
 
-| Screenshot | Platform Name | Identifying Features | Unofficial Template (if any) |
+| Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
 | New Reddit ![New Reddit](res/reddit/newpost.png)<br />Old Reddit ![Old Reddit](res/reddit/oldpost.png)<br />New Reddit Comments ![New Reddit](res/reddit/newcomment.png)<br />Old Reddit Comments ![Old Reddit](res/reddit/oldcomment.png) | Reddit | Upvote & Downvote Arrows <br /><br /> <details><summary>Click to reveal text (for dramatic effect)</summary><br />Also you should know this, it's called TranscribersOf**Reddit**</details> | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/reddit)
 | Post + Comment ![Facebook](res/facebook/postcomment.png) | Facebook | Privacy Symbol (Black & White Globe, 2 People, Lock).<br/><br/>Like Button (Thumbs Up Outline on New). | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/facebook)
