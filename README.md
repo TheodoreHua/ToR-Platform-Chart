@@ -28,6 +28,10 @@ The table is in no particular order (in the future I may sort them into subcateg
 | Messages ![Discord](res/discord/messages.png) | Discord | Username followed by date stamp, generally with a grey-ish background. <br /><br /> <details><summary>Click to reveal text (Controversy Warning)</summary><br />Unless they're one of those people who uses light theme, in which case, same thing except your eyes are now burned out</details> | [Unofficial Template](res/discord/template.md)
 | Post ![4Chan](res/4chan/post.jpg)<br/>Greentext ![Greentext](res/4chan/greentext.jpg) | 4Chan | Brownish background, post header with name in greentext on the left side and the date & number in the right side in reddish font. | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/greentext)
 | Post ![Instagram Post](res/instagram/post.png)<br/>Stories ![Instagram Stories](res/instagram/stories.png) | Instagram | Image/Post on the left, username in the topright with `Follow` beside it. Triangle paper airplane design pointing towards the topleft near the message/comment bar. | [Text Message Template for DMs](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/textmessages), No Post/Story Template Yet.
+| Post ![Youtube](res/youtube/comment.png)|Youtube|Either Black or White Background. Every comment has a profile picture and a username. There are like/dislike buttons. The number of points the comment has is displayed between this buttons.  |  No official template yet. [Use generic social media](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/other)
+
+## In Progress
+-Youtube
 
 ## To Add
 - TikTok
@@ -37,7 +41,6 @@ The table is in no particular order (in the future I may sort them into subcateg
 - Quora
 - Tumblr
 - P\*\*nHub
-- Youtube
 - Stack Exchange / Stack Overflow
 - Snapchat
 - Messenger
