@@ -17,7 +17,8 @@ Keep in mind, when in doubt, ask the mods (or other transcribers). Also keep in 
 Pull requests are always appreciated and help a lot (both me and future users). In the case that you don't know how, you may ask me in the ToR Discord (either to have me just add it or to learn how to create a PR). If you don't know where to start, go to the issues page and pick one of them that hasn't been taken by someone else. Then comment that you're doing it so that others don't work on it as the same time as you (if you're a contributor, you can self-assign the issue). If you would like to be added as a contributor, message me on discord.
 
 ## Table
-### Social Media
+
+<details><summary>Social Media</summary>
 
 | Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
@@ -28,12 +29,18 @@ Pull requests are always appreciated and help a lot (both me and future users). 
 | Post<br/>![Mastodon Post](res/mastodon/post.png)<br/><br/>Comment<br/>![Mastodon Comment](res/mastodon/post_comment.png) | Mastodon | Like twitter except the mention is formatted in `@username@domain`. The domain varies as there are different Mastodon instances. The date, privacy (globe, lock, etc), boosts (equivalent to retweet), and stars are located under the post. Generally the buttons are in the order reply, boost, star, bookmark, more. | [Unofficial Template](res/mastodon/templates)
 | Notes<br/>![Tumblr Notes](res/tumblr/notes.jpg)<br/><br/>Non-Notes<br/>![Tumblr](res/tumblr/post_comment.jpg) | Tumblr | A square profile picture followed by a bolded name and sometimes a blue `follow` button. Multiple comments/posts/notes (whatever they're called) are separated by a line. Sometimes you can see the text `X notes` under it, that's usually a telltale sign of a tumblr post. | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/socialmedia#wiki_tumblr)
 
-### Messaging
+</details>
+
+<details><summary>Messaging</summary>
+
 | Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
 | Messages<br/>![Discord](res/discord/messages.png) | Discord | Username followed by date stamp, generally with a grey-ish background. <br /><br /> <details><summary>Click to reveal text (Controversy Warning)</summary><br />Unless they're one of those people who uses light theme, in which case, same thing except your eyes are now burned out</details> | [Unofficial Template](res/discord/template.md)
 
-### Image/Video Sharing
+</details>
+
+<details><summary>Image/Video Sharing</summary>
+
 | Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
 | Post and Comments<br/>![Youtube Post](res/youtube/post_comments.jpeg)<br/><br/>Comments<br/>![Youtube](res/youtube/comment.png) | Youtube | Most posts are uploaded to reddit with comments, which have either Black or White Background. Every comment has a profile picture and a username. There are like/dislike buttons. The number of points the comment has is displayed between this buttons.  |  [Unofficial Template](res/youtube/templates)
@@ -41,7 +48,10 @@ Pull requests are always appreciated and help a lot (both me and future users). 
 | Post<br/>![Pinterest](res/pinterest/post.png) | Pinterest | Image or Video on the left, 3 dots and an upload symbol on the right with a large red `Save` button. Link to the image with only th domain is directly under that, followed by a description. On the bottom there's a profile picture followed by `User saved to Topic/Collection` (or whatever it's called). | [Unofficial Template](res/pinterest/templates)
 | Streaming and Chat<br/>![Streaming and Chat](res/twitch/twitch_streaming.png)</br><br/>Close Up of the chat<br/>![closeup](res/twitch/twitch_chat.png) | Twitch | There are multiple ways to recognize twitch. The easiest one is looking at the chat. There are people with different colors, and badges before their name. If one of them is a crown, that is twitch. If you see badges, probably is also twitch. In the top right we can see some presents. At the bottom we can see the streamer, with 2 options: Follow (in purple) and Subscribe (in grey). The title of the streaming is just below the streamer name. It is usually in a really dark gray. | [Unofficial Template](res/twitch/templates)
 
-### Forums
+</details>
+
+<details><summary>Forums</summary>
+
 | Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
 | New Reddit<br/>![New Reddit](res/reddit/newpost.png)<br/><br/>Old Reddit<br/>![Old Reddit](res/reddit/oldpost.png)<br/><br/>New Reddit Comments<br/>![New Reddit](res/reddit/newcomment.png)<br/><br/>Old Reddit Comments<br/>![Old Reddit](res/reddit/oldcomment.png) | Reddit | Upvote & Downvote Arrows, some subs use custom CSS and some screenshots are from mobile apps but they're usually pretty similar and can be easily identified. <br /><br /> <details><summary>Click to reveal text (for dramatic effect)</summary><br />Also you should know this, it's called TranscribersOf**Reddit**</details> | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/reddit)
@@ -49,17 +59,24 @@ Pull requests are always appreciated and help a lot (both me and future users). 
 | Post + Answer<br/>![Quora](res/quora/post.png) | Quora | Blue framed pencil icon with the text `Answer`, followed by a follow icon (and sometimes a request icon) underneath a bolded title. Answers usually are formatted with the name in bold, followed by `experiences` after the name separated with a comma. Underneath that is either `Answered` followed by a date or `Updated` followed by a date. | [Official Template](https://www.reddit.com/r/TranscribersOfReddit/wiki/formats/images/quora)
 | Question<br/>![StackOverflow Post](res/stackexchange/post.png)<br/><br/>Answer<br/>![StackOverflow Answer](res/stackexchange/answer.png) | Stack Exchange | Upvote/Downvote triangles similar to Reddit on the left with a number in between the two arrows. There's a description to the right of that and underneath that are tags. In the bottom right there is a rectangle which contains the username, profile picture, and date. There may also of those boxes to the left of the most bottom right box, that happens if the question/answer is edited. In order to tell whether a screenshot is a question or an answer, look at the text before the date in the rectangle. A question fill have the text `asked` and an answer will have the text `answered`. Similar to Reddit, Stack Exchange has sub-categories (like subreddits). Stack Overflow, which is used in this example, is one of them. As such, Stack Exchange screenshots may vary slightly. | [Unofficial Template](res/stackexchange/templates)
 
+</details>
 
-### Reviews
+<details><summary>Reviews</summary>
+
 | Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
 | Review + Reply<br/>![Review + Reply](res/google/review.jpg) | Google Reviews | Username, then number of reviews, then stars. | [Unofficial Template](res/google/review.md)
 | Review ![Amazon Review](res/amazon/amazon_review.png)</br>Questions and Answers ![Question](res/amazon/amazon_question_answer.png) | Amazon | Amazon reviews are similar to most review sites. To differenciate, you must look closely. The images of the review are at the bottom of the page. Amazon reviews have a rating system: Helpfulness. If you see "x people found this helpful", it's amazon. If you see "Verified Purchase", it is also amazon. The questuibs and answers can be identified easily. They have an upvote/downvote rating in the left. The user who posted the question is anonymous, but the users who answered aren't.  Answers also have the date when they were posted | [Unofficial Template](res/amazon/templates)
 
-### Other
+</details>
+
+<details><summary>Other</summary>
+
 | Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
 | Commit<br/>![GitHub Commit](res/github/commit.png)<br/><br/>Issue<br/>![GitHub Issue](res/github/issue.png) | GitHub | For commits, bolded commit message and underneath that, the profile picture and the name in bold to the right of the profile picture followed by `committed` and the date.<br/><br/>For issues, a large title and underneath that the status (Open & Closed), and the text `[user] opened this issue [time] ago` to the right of it.| [Unofficial Template](res/github/templates)
+
+</details>
 
 ## Flowchart
 
