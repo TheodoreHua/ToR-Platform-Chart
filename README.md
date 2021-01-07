@@ -32,6 +32,14 @@ Pull requests are always appreciated and help a lot (both me and future users). 
 
 </details>
 
+<details><summary>Dating</summary>
+
+| Screenshot | Platform Name | Identifying Features | Template |
+|------------|---------------|----------------------|------------------------------|
+| Profile<br/>![Tinder Profile](res/tinder/profile.jpg)<br/><br/>Messages<br/>![Tinder Message](res/tinder/messages.jpg) | Tinder | For profiles:<br/>Large profile picture at the top, bold name, to the right of the name is their age, under the name is a distance. After that is a line break, after the line break is their bio.<br/><br/>For messages:<br/>Pink-reddish left arrow on the left of the header, followed by a small picture and name, to the right of the header is a report flag. | [Unofficial Template](res/tinder/templates)
+
+</details>
+
 <details><summary>Messaging</summary>
 
 | Screenshot | Platform Name | Identifying Features | Template |
