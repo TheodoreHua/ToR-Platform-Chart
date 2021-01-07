@@ -2,7 +2,7 @@
 name: Platform Request
 about: Suggest a new platform to be added to the list
 title: "[PLATFORM]"
-labels: ''
+labels: new platform
 assignees: ''
 
 ---
