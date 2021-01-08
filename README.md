@@ -12,11 +12,17 @@ The example screenshots are either created by me, taken from Reddit, or from var
 
 Keep in mind, when in doubt, ask the mods (or other transcribers). Also keep in mind that when copying an unofficial template in the repo, copy the raw text (click the `Raw` button in the file) or the formatting won't appear properly in reddit.
 
+## Issues
+
+If there's a platform you encountered while transcribing that isn't in this list, you can create an issue to add it using the [new platform template](https://github.com/TheodoreHua/ToR-Platform-Chart/issues/new?assignees=&labels=new+platform&template=platform-request.md&title=%5BPLATFORM%5D), if you feel a platform in the table should be updated, whether it's if the wording is confusing, there's a typo, or something is incorrect, you can create an issue with the [edit template](https://github.com/TheodoreHua/ToR-Platform-Chart/issues/new?assignees=&labels=platform+update&template=platform-update.md&title=Update+%5BPLATFORM%5D+with+%5BTYPO%2FNEW+ASPECT%5D), if a platform that's currently in the table doesn't have an official template or an unofficial template, you can request that an unofficial template be created using the [template request template](https://github.com/TheodoreHua/ToR-Platform-Chart/issues/new?assignees=&labels=need+template&template=unofficial-template-request.md&title=Unofficial+Template+for+%5BPLATFORM%5D), and lastly, if none of the above situations fit whatever you want changed, you can open a [blank issue](https://github.com/TheodoreHua/ToR-Platform-Chart/issues/new) and write your own descriptions. If you feel that you can update it yourself, create the issue, then create a pull request to update the document.
+
 ## Pull Requests
 
-Pull requests are always appreciated and help a lot (both me and future users). In the case that you don't know how, you may ask me in the ToR Discord (either to have me just add it or to learn how to create a PR). If you don't know where to start, go to the issues page and pick one of them that hasn't been taken by someone else. Then comment that you're doing it so that others don't work on it as the same time as you (if you're a contributor, you can self-assign the issue). If you would like to be added as a contributor, message me on discord.
+Pull requests are always appreciated and help a lot (both me and future users). In the case that you don't know how, you may ask me in the ToR Discord (either to have me just add it or to learn how to create a PR). If you don't know where to start, go to the issues page and pick one of them that hasn't been taken by someone else. Then comment that you're doing it or so that others don't work on it as the same time as you (if you're a contributor, you can self-assign the issue). If you would like to be added as a contributor, message me on discord.
 
 ## Table
+
+The table is split into sub-categories, to make it easier for you to find a certain screenshot if you can figure out what category the platform belongs to. If you think the screenshot doesn't belong to any of the categories, it might be located in the `Other` section. There is a chance that the platform may not be in this table, and if that's the case you can always ask the `#transcribing` channel on discord.
 
 <details><summary>Social Media</summary>
 
