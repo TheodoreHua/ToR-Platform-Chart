@@ -45,7 +45,7 @@ Pull requests are always appreciated and help a lot (both me and future users). 
 
 | Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
-| ![Discord](res/discord/messages.png) | Discord | Username followed by date stamp, generally with a grey-ish background. <br /><br /> <details><summary>Click to reveal text (Controversy Warning)</summary><br />Unless they're one of those people who uses light theme, in which case, same thing except your eyes are now burned out</details> | [Unofficial Template](res/discord/template.md)
+| Cozy<br/>![Discord](res/discord/normal.png)<br/><br/>Compact<br/>![Discord Compact](res/discord/compact.png) | Discord | Username followed by date stamp, generally with a grey-ish background. <br /><br /> <details><summary>Click to reveal text (Controversy Warning)</summary><br />Unless they're one of those people who uses light theme, in which case, same thing except your eyes are now burned out</details> | [Unofficial Template](res/discord/template.md)
 | ![Steam Chat](res/steam/messages.jpg) | Steam Chat | Small profile picture with blue line on the right of it followed by a username followed by a timestamp. An icon with a plus arrow and person is located in the top right of the chat window. The person the user is chatting with is shown in a tab list at the top of the window. Under that is the message body. | [Unofficial Template](res/steam/templates/messages.md)
 
 </details>
