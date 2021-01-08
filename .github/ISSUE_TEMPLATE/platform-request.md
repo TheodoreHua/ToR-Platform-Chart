@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Is an unofficial template needed for this platform?**
+If an unofficial template is needed for this platform, apply the `need template` label.
 
 **Sub Entries**
 - 
