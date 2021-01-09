@@ -44,6 +44,7 @@ The table is split into sub-categories, to make it easier for you to find a cert
 | Screenshot | Platform Name | Identifying Features | Template |
 |------------|---------------|----------------------|------------------------------|
 | Profile<br/>![Tinder Profile](res/tinder/profile.jpg)<br/><br/>Messages<br/>![Tinder Message](res/tinder/messages.jpg) | Tinder | For profiles:<br/>Large profile picture at the top, bold name, to the right of the name is their age, under the name is a distance. After that is a line break, after the line break is their bio.<br/><br/>For messages:<br/>Pink-reddish left arrow on the left of the header, followed by a small picture and name, to the right of the header is a report flag. | [Unofficial Template](res/tinder/templates)
+| ![Bumble Profile](res/bumble/profile.jpg) | Bumble | Large banner profile picture with a card like pop up. The card is in the format of `Name, Age` followed by a line break and their bio. | [Unofficial Template](res/mumble/template.md)
 
 </details>
 
