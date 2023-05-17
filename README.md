@@ -1,6 +1,6 @@
 # Platform Reference for [r/TranscribersOfReddit](https://www.reddit.com/r/TranscribersOfReddit/wiki/index)
 
-[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-orange.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-orange.svg)](https://github.com/TheodoreHua/MaintenanceLevels#not-maintained)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/theodorehuadev@gmail.com)  
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheodoreHua/ToR-Platform-Chart)
 [![GitHub license](https://img.shields.io/github/license/TheodoreHua/ToR-Platform-Chart)](https://github.com/TheodoreHua/ToR-Platform-Chart/blob/master/LICENSE)
